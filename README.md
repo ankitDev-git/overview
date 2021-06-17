@@ -1,5 +1,8 @@
 # Work Overview
 
-### Updating soon...
-Because of currently occupied in development, work overview will be available by 29, June 2021.
+
+
+### Soon uploading Artifacts
+
+Because of currently occupied in development, artifacts will be available by 29, June 2021.
 
