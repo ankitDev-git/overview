@@ -4,5 +4,5 @@
 
 ### Soon uploading Artifacts
 
-Because of currently occupied in development, artifacts will be available by 11, July 2021.
+Currently occupied in project development, artifacts will soon be available.
 
